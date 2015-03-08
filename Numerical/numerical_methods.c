@@ -19,7 +19,7 @@ double linear(double x);
 int main() {
     
     printf("Using a left riemann sum to do a regular sum from 0 to 3 of i^2\n");
-    printf("%f\n", left_riemann_sum(quadratic, 0, 3, 3));
+    printf("%f\n", left_riemann_sum(quadratic, 0, 4, 4));
     
     
     
