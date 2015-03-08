@@ -37,7 +37,7 @@
 
 (princ "Using a left riemann sum to do a regular sum from 0 to 3 of i^2")
 (write-line " ")
-(write(left-riemann-sum #'p 0 3 3))
+(write(left-riemann-sum #'p 0 4 4))
 (write-line " ")
 
 (princ "Numerical approximation using Left Riemann Sum for x^2 from 0 to 1")
