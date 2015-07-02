@@ -9,3 +9,7 @@ Notice the difference in the number of lines of code for each.
 ## Recurrences
 In this folder, I have functions written in Haskell for four recurrence relations. 
 Haskell seemed a natural choice for defining recursive formulae. 
+
+## SyntacticSugar
+Four versions of a simple Haskell function operating on lists, all doing the same thing, but with different levels of
+syntactic sugar.
